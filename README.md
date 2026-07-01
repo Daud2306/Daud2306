@@ -1,1 +1,1 @@
-![Souls Collected](https://komarev.com/ghpvc/?username=Prabu2306&label=Souls+Collected&color=black&style=flat)
+![Souls Collected](https://komarev.com/ghpvc/?username=Daud2306&label=Souls+Collected&color=000000&style=flat)
