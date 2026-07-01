@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=Daud2306&style=for-the-badge)
+https://views.igorkowalczyk.dev/api/badge/Daud2306?theme=dark
