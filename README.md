@@ -1,1 +1,1 @@
-https://views.igorkowalczyk.dev/api/json/Daud2306
+![](https://komarev.com/ghpvc/?username=Daud2306&style=for-the-badge)
