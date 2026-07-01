@@ -1,1 +1,1 @@
-https://views.igorkowalczyk.dev/api/badge/Daud2306?theme=dark
+![Souls Collected](https://komarev.com/ghpvc/?username=Prabu2306&label=Souls+Collected&color=black&style=flat)
